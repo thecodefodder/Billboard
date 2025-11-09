@@ -25,6 +25,6 @@ height = 200 # the height of the window
 [text]
 banner_text= "Hello, World!" # The text that will scroll in the window
 font_size = 67 # the font size
-font_path = "/usr/share/fonts/TTF/IosevkaNerdFont-Regular.ttf" # the path to the font you wish to you. If this is empty, a default will be used
+font_path = "/usr/share/fonts/TTF/IosevkaNerdFont-Regular.ttf" # the path to the font you wish to use. If this is empty, a default will be used
 font_spacing = 8.0 # The spacing between characters. Some fonts need some spacing to stop overlap
 ```
