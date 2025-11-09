@@ -1,0 +1,9 @@
+[window]
+width = 800
+height = 200
+
+[text]
+banner_text= "Hello, World!"
+font_size = 67
+font_path = "/usr/share/fonts/TTF/IosevkaNerdFont-Regular.ttf"
+font_spacing = 8.0
