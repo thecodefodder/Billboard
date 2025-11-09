@@ -20,7 +20,7 @@ odin build . -out:build/billboard
 ```toml
 [window]
 width = 800 # the width of the window
-height = 200 # the length of the window
+height = 200 # the height of the window
 
 [text]
 banner_text= "Hello, World!" # The text that will scroll in the window
